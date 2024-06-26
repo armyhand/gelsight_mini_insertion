@@ -4,3 +4,4 @@
 
 物体按压建模相关代码：image_filter.py, gelsight_mapping.py, gelsight_mapping2.py
 
+平面检测和边缘相对位置检测相关代码（需结合机械臂控制）：face_detection.py, edge_detection.py

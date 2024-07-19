@@ -1,7 +1,9 @@
-这是有关使用gelsight_mini视触觉传感器进行机器人感知、操作的相关代码，均为这段时间以来作者的项目总结,未来还会不断地完善
+These codes are implements of using the gelsight-mini sensor to perceive and manipulate objects, the author could 未来还会不断地完善。  
 
-检测夹持物体运动趋势相关代码：main.py, main-TCP.py, image_flow.py
+Before using these codes, the user need install the gelsight SDK and the corresponding environment.
 
-物体按压建模相关代码：image_filter.py, gelsight_mapping.py, gelsight_mapping2.py
+The codes that perceiving the moving trend of the grasped object：**main.py, main-TCP.py, image_flow.py**
 
-平面检测和边缘相对位置检测相关代码（需结合机械臂控制）：face_detection.py, edge_detection.py
+The codes that detecting the press to the deformable face：**image_filter.py, gelsight_mapping.py, gelsight_mapping2.py**
+
+The codes that estimating the relative position between the peg and the hole (the python codes need to be associated with the robot controlling codes)：**face_detection.py, edge_detection.py**

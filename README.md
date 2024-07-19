@@ -1,6 +1,6 @@
 These codes are implements of using the gelsight-mini sensor to perceive and manipulate objects, the author could 未来还会不断地完善。  
 
-Before using these codes, the user need install the gelsight SDK and the corresponding environment.
+Before using these codes, the user need install the gelsight SDK and the [corresponding environment](https://github.com/gelsightinc/gsrobotics).
 
 The codes that perceiving the moving trend of the grasped object：**main.py, main-TCP.py, image_flow.py**
 

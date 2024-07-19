@@ -1,4 +1,4 @@
-These codes are implements of using the gelsight-mini sensor to perceive and manipulate objects, the author could 未来还会不断地完善。  
+These codes are implements of using the gelsight-mini sensor to perceive and manipulate objects. In the future, the author could fill more corresponding codes about the visual-tactile based perception and manipulation tp this workflow.
 
 Before using these codes, the user need install the gelsight SDK and the [corresponding environment](https://github.com/gelsightinc/gsrobotics).
 
